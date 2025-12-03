@@ -1,6 +1,8 @@
 # COEQWAL
 
-### [COEQWAL Repository](https://github.com/maramahmedd/coeqwal)  
+### COEQWAL Website   
+### [(Old) COEQWAL Repository](https://github.com/maramahmedd/coeqwal)    
+### (New) COEQWAL Repository   
 
 ### Honored with the "Data Discovery Insights" award at the Data Discovery Symposium for clarity, structure, and visual storytelling.
 
