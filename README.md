@@ -1,8 +1,9 @@
 # COEQWAL
 
-### COEQWAL Website   
-### [(Old) COEQWAL Repository](https://github.com/maramahmedd/coeqwal)    
-### [(New) COEQWAL Repository](https://github.com/canruso/COEQWAL_V3)     
+### [Project Website](https://coeqwal.org/)   
+### [Dashboard](https://huggingface.co/spaces/COEQWAL/water-data-dashboard) 
+### [Repository](https://github.com/canruso/COEQWAL_V3)     
+### [Outdated Repository](https://github.com/maramahmedd/coeqwal)    
 
 ### Honored with the "Data Discovery Insights" award at the Data Discovery Symposium for clarity, structure, and visual storytelling.
 
